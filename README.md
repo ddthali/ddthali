@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vittawat Yongyingyuen
 - 👀 I’m interested in Game Creator
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me ...
 
 <!---
